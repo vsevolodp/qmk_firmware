@@ -19,8 +19,8 @@
 #include "config_common.h"
 
 /* USB Device descriptor parameter */
-#define VENDOR_ID       0x4B42
-#define PRODUCT_ID      0x6062
+#define VENDOR_ID       0x05AC  // See https://usb-ids.gowdy.us/read/UD/05ac
+#define PRODUCT_ID      0x024F  // See https://usb-ids.gowdy.us/read/UD/05ac/024f
 #define DEVICE_VER      0x0003
 #define MANUFACTURER    KBDFANS
 #define PRODUCT         KBD75_HOTSWAP
